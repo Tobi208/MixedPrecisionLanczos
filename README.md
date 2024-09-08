@@ -1,6 +1,6 @@
 # Mixed-Precision Lanczos on HPC Architecture
 
-Basic and Block Lanczos in mixed-precision on NVIDIA HPC architectures. Tested on CUDA Toolkit version 12.3.0. Master Thesis in Computer Science at Uppsala University, 2024.
+Basic and Block Lanczos in mixed-precision on NVIDIA HPC architectures. Tested on CUDA Toolkit version 12.3.0. Master Thesis in Computer Science at Uppsala University, 2024, available on [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-535308).
 
 ## Generate Test Data as Symmetric COO
 
